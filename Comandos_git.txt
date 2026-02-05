@@ -14,6 +14,8 @@ git reset <nome do arquivo> -> tira do git add antes do commit
 git checkout -b <nome da branch> -> cria uma nova branch e muda para ela
 git checkout <nome da branch> -> muda de branch
 git branch -> mostra quais as branchs que existem e com * mostra qual está
+git merge <nome da branch> -> tras as alterações feitas na outra branch
+
 
 Fluxo de trabalho
 git init .
