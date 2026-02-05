@@ -13,6 +13,7 @@ git diff <nome do arquivo> -> mostra o que foi adicionado e modificado no arquiv
 git reset <nome do arquivo> -> tira do git add antes do commit
 git merge <nome da branch> -> tras as alterações feitas na outra branch
 
+
 Fluxo de trabalho
 git init .
 git status
