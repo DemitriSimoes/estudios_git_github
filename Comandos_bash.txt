@@ -6,3 +6,4 @@ cd -> move entre diretorios
 pwd -> mostra diretorio atual
 cat -> mostra o conteudo do arquivo atraves do prompt
 rm -> remove arquivo ou diretorio
+rm -rf
