@@ -11,7 +11,9 @@ git config --global user.email <nome do email>
 git log -> verifica todo o log de commit feito
 git diff <nome do arquivo> -> mostra o que foi adicionado e modificado no arquivo
 git reset <nome do arquivo> -> tira do git add antes do commit
-git merge <nome da branch> -> tras as alterações feitas na outra branch
+git merge <nome da branch> -> tras as alterações feitas na outra branch, ou seja, tras o que foi feito commit
+git stash -> para suspender as mudanças e poder mudar de branch
+git stash pop -> quando voltar para a branch que deu stash o pop recupera o que foi feito pode fazer o git add e git commit
 
 
 Fluxo de trabalho
