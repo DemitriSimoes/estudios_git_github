@@ -11,6 +11,9 @@ git config --global user.email <nome do email>
 git log -> verifica todo o log de commit feito
 git diff <nome do arquivo> -> mostra o que foi adicionado e modificado no arquivo
 git reset <nome do arquivo> -> tira do git add antes do commit
+git checkout -b <nome da branch> -> cria uma nova branch e muda para ela
+git checkout <nome da branch> -> muda de branch
+git branch -> mostra quais as branchs que existem e com * mostra qual está
 
 Fluxo de trabalho
 git init .
