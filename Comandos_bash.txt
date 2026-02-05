@@ -12,7 +12,7 @@ Comandos do Git
 git init . -> inicializa o repositorio git vazio (cria uma pasta .git/ no diretorio atual)
 git config --global --add safe.directory D:/Analyst/Git_GitHub (caminho para dar permissão de acesso, pois o git normalmente verifica quando não tem permissão ou quando está em uma partição diferente, nesse caso D:)
 git status -> me mostra como está o meu diretorio
-git add .(para tudo) ou <nomedo arquivo> -> adiciona os arquivos que eu quero que vá para o commit
+git add .(para pasta atual) ou <nomedo arquivo> -> adiciona os arquivos que eu quero que vá para o commit
 git commit -m "<mensagem>" -> cria um save um checkpoint do arquivo, commit feito, alterações salvas
 git config --global user.name <nome do usuario> -> adiciona o email que vai usar o git e se digitar sem o email só o comando mostra qual email ou usuario que esta usando
 git config --global user.email <nome do email>
