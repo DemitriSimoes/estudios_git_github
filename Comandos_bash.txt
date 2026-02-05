@@ -16,3 +16,4 @@ git add .(para tudo) ou <nomedo arquivo> -> adiciona os arquivos que eu quero qu
 git commit -m "<mensagem>" -> cria um save um checkpoint do arquivo, commit feito, alterações salvas
 git config --global user.name <nome do usuario> -> adiciona o email que vai usar o git e se digitar sem o email só o comando mostra qual email ou usuario que esta usando
 git config --global user.email <nome do email>
+git log -> verifica todo o log de commit feito
