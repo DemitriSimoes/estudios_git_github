@@ -44,6 +44,10 @@ git push origin main -> envia o ultimo commit para o repositorio GitHub
 
 git pull origin main -> atualiza minha base local do main com o ultimo commit do repositorio GitHub
 
+.gitignore -> arquivo criado com esse nome para excluir arquivo que não fazem parte dos commits<br>
+normalmente arquivos que são binários e não de texto
+
+.gitkeep -> arquivo criado dentro de uma pasta para que a pasta não seja ignorada caso esteja vazia
 
 Fluxo de trabalho
 git init .
