@@ -1,5 +1,6 @@
 # Estudios Git y GitHub
 
 Se trata del control de versiones de código
-y
+
+y<br>
 repositorios remotos en GitHub
