@@ -1,0 +1,54 @@
+## Estándares del Branchs
+
+1. parte primera - categoria
+- docs: cambios de documentaciones
+- feat: una nueva funcionalidad
+- perf: cambio del codigo para mejorar la performance
+- refactor: cambio del codigo, pero sin nueva funcionalidad
+- style: cambio del codigo para la formatación
+- test: adiciona o para corregir codigo
+
+2. parte segunda - o que la branch hace
+
+3. parte tecera - opcional, puede tener un codigo del Jira o similar
+
+ex: git checkout -b docs_cambioREADME_Jira123
+
+
+## Estándares del Commits
+
+:emoji: 'tipo'(escopo): 'descrição'
+
+- fix
+- feat
+- docs
+- style
+- refactor
+- build
+- test
+- chore
+
+Emojis
+
+Tipo de commit	Emojis
+
+Commit inicial	         🎉 :tada:
+Tag de versão	         🔖 :bookmark:
+Novo recurso	         ✨ :sparkles:
+Lista de ideias        	🔜 :soon:
+Bugfix	                 🐛 :bug:
+Documentação	         📚 :books:
+Testes	                 🧪 :test_tube:
+Adicionando um teste     ✅ :white_check_mark:
+Teste de aprovação	     ✔️ :heavy_check_mark:
+Acessibilidade	         ♿ :wheelchair:
+Texto	                 📝 :pencil:
+Package.json em JS	     📦 :package:
+Em progresso	         🚧 :construction:
+Arquivos de configuração	🔧 :wrench:
+Removendo uma dependência	➖ :heavy_minus_sign:
+Adicionando uma dependência	➕ :heavy_plus_sign:
+Revertendo mudanças	        💥 :boom:
+Alterações de revisão de código	👌 :ok_hand:
+Refatoração	             ♻️ :recycle:
+Mover/Renomear	         🚚 :truck:
