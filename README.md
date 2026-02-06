@@ -7,13 +7,13 @@ repositorios remotos en GitHub
 
 ## Flujo de trabajo Git local
 
-1. git checkout -b <nova branch><br>
-2. crea o actualiza archivos<br>
-3. git status<br>
-4. git add <nombre del archivo o .><br>
-5. git commit -m "<mensagem>"<br>
-6. git checkout main<br>
-7. git merge <nova branch><br>
+1. git checkout -b <nova branch>
+2. crea o actualiza archivos
+3. git status
+4. git add <nombre del archivo>
+5. git commit -m "<mensagem >"
+6. git checkout main
+7. git merge <nova branch>
 
 ## Flujo de trabajo GitHub <> local (tu propio proyecto o el proyecto de tu empresa)
 
