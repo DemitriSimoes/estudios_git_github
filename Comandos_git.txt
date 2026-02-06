@@ -38,6 +38,12 @@ git stash pop -> quando voltar para a branch que deu stash o pop recupera o que 
 
 git branch -D <nome da branch> -> apaga a branch, mas não pode estar dentro dela
 
+git remote add origin <codigo SSH> ou <codigo html> -> faz a ligação entre o repositorio do GitHub com o versionamento do Git local
+
+git push origin main -> envia o ultimo commit para o repositorio GitHub
+
+git pull origin main -> atualiza minha base local do main com o ultimo commit do repositorio GitHub
+
 
 Fluxo de trabalho
 git init .
