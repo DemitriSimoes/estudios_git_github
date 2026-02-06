@@ -46,4 +46,3 @@ git add . ou nome do arquivo
 git commit -m "<mensagem>"
 git status
 git log
-git checkout -b <nova branch>
