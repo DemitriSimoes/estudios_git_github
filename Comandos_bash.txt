@@ -7,8 +7,3 @@ pwd -> mostra diretorio atual
 cat -> mostra o conteudo do arquivo atraves do prompt
 rm -> remove arquivo ou diretorio
 rm -rf
-
-comando Vim
-
-esc -> para sair do modo de edição
-:wq -> : para escrever o comando, w para salvar e q para sair
