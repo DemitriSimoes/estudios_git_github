@@ -3,3 +3,10 @@ Comando Vim
 
 esc -> para sair do modo de edição
 :wq -> : para escrever o comando, w para salvar e q para sair
+o -> linha abaixo para edição
+O -> linha acima para edição
+i -> edita linea actual
+dd -> apaga linea intera
+yy -> copia linea intera
+p -> cola abajo
+:q! -> salir sin salvar
