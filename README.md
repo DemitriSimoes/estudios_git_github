@@ -21,7 +21,7 @@ repositorios remotos en GitHub
 2. git checkout -b <nueva_branch>
 3. cambios de archivo
 4. git status
-5. git add <archivos>
+5. git add <archivos o .>
 6. git status
 7. git commit -m "mensagem"
 8. git push origin <nombre_de_la_nueva_branch>
